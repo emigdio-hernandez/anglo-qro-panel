@@ -1,4 +1,14 @@
 {
   "schema": 1,
-  "images": []
+  "images": [
+    {
+      "sha256": "9d1d373a71689094b3b6caac38d075bd80179b3b3be0fe92287c929d7245581a",
+      "title": "invitacion-mananita-mexicana-primaria.jpg",
+      "pages": 1,
+      "source_type": "image",
+      "media_type": "image/jpeg",
+      "path": "imagenes/9d1d373a7168-invitacion-mananita-mexicana-primaria.jpg",
+      "url": "https://emigdio-hernandez.github.io/anglo-qro-panel/imagenes/9d1d373a7168-invitacion-mananita-mexicana-primaria.jpg"
+    }
+  ]
 }
