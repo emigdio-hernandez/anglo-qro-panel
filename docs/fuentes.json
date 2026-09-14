@@ -128,6 +128,24 @@
       "url": "https://emigdio-hernandez.github.io/anglo-qro-panel/pdfs/cbe095e92aa1-tolerancia-en-el-horario-de-entrada-ante-las-obras-viales.pdf"
     },
     {
+      "sha256": "b096a61568cee3d1606dae933b9f8ca71c02a06b1ec20d038845930da173defc",
+      "title": "CALENDARIO_AGOS-SEP_26-27_SEC.pdf",
+      "pages": 2,
+      "source_type": "pdf",
+      "media_type": "application/pdf",
+      "path": "pdfs/b096a61568ce-calendario-agos-sep-26-27-sec.pdf",
+      "url": "https://emigdio-hernandez.github.io/anglo-qro-panel/pdfs/b096a61568ce-calendario-agos-sep-26-27-sec.pdf"
+    },
+    {
+      "sha256": "35a7433571646a6d2191747165fc0de3c79fb04d7f11b923cf96a58cb7c3a196",
+      "title": "conmemoracion-15-septiembre-secundaria-preparatoria.jpg",
+      "pages": 1,
+      "source_type": "image",
+      "media_type": "image/jpeg",
+      "path": "imagenes/35a743357164-conmemoracion-15-septiembre-secundaria-preparatoria.jpg",
+      "url": "https://emigdio-hernandez.github.io/anglo-qro-panel/imagenes/35a743357164-conmemoracion-15-septiembre-secundaria-preparatoria.jpg"
+    },
+    {
       "sha256": "9d1d373a71689094b3b6caac38d075bd80179b3b3be0fe92287c929d7245581a",
       "title": "invitacion-mananita-mexicana-primaria.jpg",
       "pages": 1,
@@ -263,6 +281,24 @@
       "media_type": "application/pdf",
       "path": "pdfs/cbe095e92aa1-tolerancia-en-el-horario-de-entrada-ante-las-obras-viales.pdf",
       "url": "https://emigdio-hernandez.github.io/anglo-qro-panel/pdfs/cbe095e92aa1-tolerancia-en-el-horario-de-entrada-ante-las-obras-viales.pdf"
+    },
+    {
+      "sha256": "b096a61568cee3d1606dae933b9f8ca71c02a06b1ec20d038845930da173defc",
+      "title": "CALENDARIO_AGOS-SEP_26-27_SEC.pdf",
+      "pages": 2,
+      "source_type": "pdf",
+      "media_type": "application/pdf",
+      "path": "pdfs/b096a61568ce-calendario-agos-sep-26-27-sec.pdf",
+      "url": "https://emigdio-hernandez.github.io/anglo-qro-panel/pdfs/b096a61568ce-calendario-agos-sep-26-27-sec.pdf"
+    },
+    {
+      "sha256": "35a7433571646a6d2191747165fc0de3c79fb04d7f11b923cf96a58cb7c3a196",
+      "title": "conmemoracion-15-septiembre-secundaria-preparatoria.jpg",
+      "pages": 1,
+      "source_type": "image",
+      "media_type": "image/jpeg",
+      "path": "imagenes/35a743357164-conmemoracion-15-septiembre-secundaria-preparatoria.jpg",
+      "url": "https://emigdio-hernandez.github.io/anglo-qro-panel/imagenes/35a743357164-conmemoracion-15-septiembre-secundaria-preparatoria.jpg"
     },
     {
       "sha256": "9d1d373a71689094b3b6caac38d075bd80179b3b3be0fe92287c929d7245581a",
