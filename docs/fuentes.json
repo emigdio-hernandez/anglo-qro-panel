@@ -162,6 +162,15 @@
       "media_type": "image/jpeg",
       "path": "imagenes/9d1d373a7168-invitacion-mananita-mexicana-primaria.jpg",
       "url": "https://emigdio-hernandez.github.io/anglo-qro-panel/imagenes/9d1d373a7168-invitacion-mananita-mexicana-primaria.jpg"
+    },
+    {
+      "sha256": "056d7a3555ddffa677c1264007bfc66563470d0b420aaf85497c477ed30fb784",
+      "title": "RECAUDACION_DE_CUOTAS_1.pdf",
+      "pages": 2,
+      "source_type": "pdf",
+      "media_type": "application/pdf",
+      "path": "pdfs/056d7a3555dd-recaudacion-de-cuotas-1.pdf",
+      "url": "https://emigdio-hernandez.github.io/anglo-qro-panel/pdfs/056d7a3555dd-recaudacion-de-cuotas-1.pdf"
     }
   ],
   "documents": [
@@ -326,6 +335,15 @@
       "media_type": "image/jpeg",
       "path": "imagenes/9d1d373a7168-invitacion-mananita-mexicana-primaria.jpg",
       "url": "https://emigdio-hernandez.github.io/anglo-qro-panel/imagenes/9d1d373a7168-invitacion-mananita-mexicana-primaria.jpg"
+    },
+    {
+      "sha256": "056d7a3555ddffa677c1264007bfc66563470d0b420aaf85497c477ed30fb784",
+      "title": "RECAUDACION_DE_CUOTAS_1.pdf",
+      "pages": 2,
+      "source_type": "pdf",
+      "media_type": "application/pdf",
+      "path": "pdfs/056d7a3555dd-recaudacion-de-cuotas-1.pdf",
+      "url": "https://emigdio-hernandez.github.io/anglo-qro-panel/pdfs/056d7a3555dd-recaudacion-de-cuotas-1.pdf"
     }
   ]
 }
