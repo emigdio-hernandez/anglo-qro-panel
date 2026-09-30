@@ -171,6 +171,15 @@
       "media_type": "application/pdf",
       "path": "pdfs/056d7a3555dd-recaudacion-de-cuotas-1.pdf",
       "url": "https://emigdio-hernandez.github.io/anglo-qro-panel/pdfs/056d7a3555dd-recaudacion-de-cuotas-1.pdf"
+    },
+    {
+      "sha256": "104b1309715d1f4bac1ba2e8846ce6469d014ba0361824e0c31c569d6138008f",
+      "title": "2026-09-30_calendario-octubre-2026-primaria.pdf",
+      "pages": 2,
+      "source_type": "pdf",
+      "media_type": "application/pdf",
+      "path": "pdfs/104b1309715d-2026-09-30-calendario-octubre-2026-primaria.pdf",
+      "url": "https://emigdio-hernandez.github.io/anglo-qro-panel/pdfs/104b1309715d-2026-09-30-calendario-octubre-2026-primaria.pdf"
     }
   ],
   "documents": [
@@ -344,6 +353,15 @@
       "media_type": "application/pdf",
       "path": "pdfs/056d7a3555dd-recaudacion-de-cuotas-1.pdf",
       "url": "https://emigdio-hernandez.github.io/anglo-qro-panel/pdfs/056d7a3555dd-recaudacion-de-cuotas-1.pdf"
+    },
+    {
+      "sha256": "104b1309715d1f4bac1ba2e8846ce6469d014ba0361824e0c31c569d6138008f",
+      "title": "2026-09-30_calendario-octubre-2026-primaria.pdf",
+      "pages": 2,
+      "source_type": "pdf",
+      "media_type": "application/pdf",
+      "path": "pdfs/104b1309715d-2026-09-30-calendario-octubre-2026-primaria.pdf",
+      "url": "https://emigdio-hernandez.github.io/anglo-qro-panel/pdfs/104b1309715d-2026-09-30-calendario-octubre-2026-primaria.pdf"
     }
   ]
 }
