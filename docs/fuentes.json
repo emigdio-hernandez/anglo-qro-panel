@@ -173,6 +173,15 @@
       "url": "https://emigdio-hernandez.github.io/anglo-qro-panel/pdfs/056d7a3555dd-recaudacion-de-cuotas-1.pdf"
     },
     {
+      "sha256": "2f9f1fea36f4e72e1409fef596679a856f0ae2b7fe7d89dfacbbd17fd55701d2",
+      "title": "aviso-prevencion-enfermedades-respiratorias.jpg",
+      "pages": 1,
+      "source_type": "image",
+      "media_type": "image/jpeg",
+      "path": "imagenes/2f9f1fea36f4-aviso-prevencion-enfermedades-respiratorias.jpg",
+      "url": "https://emigdio-hernandez.github.io/anglo-qro-panel/imagenes/2f9f1fea36f4-aviso-prevencion-enfermedades-respiratorias.jpg"
+    },
+    {
       "sha256": "104b1309715d1f4bac1ba2e8846ce6469d014ba0361824e0c31c569d6138008f",
       "title": "2026-09-30_calendario-octubre-2026-primaria.pdf",
       "pages": 2,
@@ -362,6 +371,15 @@
       "media_type": "application/pdf",
       "path": "pdfs/056d7a3555dd-recaudacion-de-cuotas-1.pdf",
       "url": "https://emigdio-hernandez.github.io/anglo-qro-panel/pdfs/056d7a3555dd-recaudacion-de-cuotas-1.pdf"
+    },
+    {
+      "sha256": "2f9f1fea36f4e72e1409fef596679a856f0ae2b7fe7d89dfacbbd17fd55701d2",
+      "title": "aviso-prevencion-enfermedades-respiratorias.jpg",
+      "pages": 1,
+      "source_type": "image",
+      "media_type": "image/jpeg",
+      "path": "imagenes/2f9f1fea36f4-aviso-prevencion-enfermedades-respiratorias.jpg",
+      "url": "https://emigdio-hernandez.github.io/anglo-qro-panel/imagenes/2f9f1fea36f4-aviso-prevencion-enfermedades-respiratorias.jpg"
     },
     {
       "sha256": "104b1309715d1f4bac1ba2e8846ce6469d014ba0361824e0c31c569d6138008f",
