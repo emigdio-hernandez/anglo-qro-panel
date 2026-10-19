@@ -36,6 +36,24 @@
       "media_type": "image/jpeg",
       "path": "imagenes/2f9f1fea36f4-aviso-prevencion-enfermedades-respiratorias.jpg",
       "url": "https://emigdio-hernandez.github.io/anglo-qro-panel/imagenes/2f9f1fea36f4-aviso-prevencion-enfermedades-respiratorias.jpg"
+    },
+    {
+      "sha256": "9aec209b3e88857954e3f53641e52a08b3622af2ce2bced48ce8fdbc9da57b8d",
+      "title": "vestuario-preescolar-16-diciembre-2026.png",
+      "pages": 1,
+      "source_type": "image",
+      "media_type": "image/png",
+      "path": "imagenes/9aec209b3e88-vestuario-preescolar-16-diciembre-2026.png",
+      "url": "https://emigdio-hernandez.github.io/anglo-qro-panel/imagenes/9aec209b3e88-vestuario-preescolar-16-diciembre-2026.png"
+    },
+    {
+      "sha256": "43d635e5389b72afd4d7a3fe7e4403a10949c29f4445e0514157450d9befc128",
+      "title": "vestuario-preescolar-20-noviembre-2026.png",
+      "pages": 1,
+      "source_type": "image",
+      "media_type": "image/png",
+      "path": "imagenes/43d635e5389b-vestuario-preescolar-20-noviembre-2026.png",
+      "url": "https://emigdio-hernandez.github.io/anglo-qro-panel/imagenes/43d635e5389b-vestuario-preescolar-20-noviembre-2026.png"
     }
   ]
 }
