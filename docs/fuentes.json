@@ -225,6 +225,15 @@
       "media_type": "application/pdf",
       "path": "pdfs/66272072edcd-2026-09-30-calendario-octubre-preescolar-ciclo-escolar-2026-2027.pdf",
       "url": "https://emigdio-hernandez.github.io/anglo-qro-panel/pdfs/66272072edcd-2026-09-30-calendario-octubre-preescolar-ciclo-escolar-2026-2027.pdf"
+    },
+    {
+      "sha256": "d9c8b061b39f955d60096fad1c0e0ac69eedc93cc6ced7c425c63717941212b2",
+      "title": "2026-10-30_3-calendario-preescolar-noviembre-2026-2027.pdf",
+      "pages": 3,
+      "source_type": "pdf",
+      "media_type": "application/pdf",
+      "path": "pdfs/d9c8b061b39f-2026-10-30-3-calendario-preescolar-noviembre-2026-2027.pdf",
+      "url": "https://emigdio-hernandez.github.io/anglo-qro-panel/pdfs/d9c8b061b39f-2026-10-30-3-calendario-preescolar-noviembre-2026-2027.pdf"
     }
   ],
   "documents": [
@@ -452,6 +461,15 @@
       "media_type": "application/pdf",
       "path": "pdfs/66272072edcd-2026-09-30-calendario-octubre-preescolar-ciclo-escolar-2026-2027.pdf",
       "url": "https://emigdio-hernandez.github.io/anglo-qro-panel/pdfs/66272072edcd-2026-09-30-calendario-octubre-preescolar-ciclo-escolar-2026-2027.pdf"
+    },
+    {
+      "sha256": "d9c8b061b39f955d60096fad1c0e0ac69eedc93cc6ced7c425c63717941212b2",
+      "title": "2026-10-30_3-calendario-preescolar-noviembre-2026-2027.pdf",
+      "pages": 3,
+      "source_type": "pdf",
+      "media_type": "application/pdf",
+      "path": "pdfs/d9c8b061b39f-2026-10-30-3-calendario-preescolar-noviembre-2026-2027.pdf",
+      "url": "https://emigdio-hernandez.github.io/anglo-qro-panel/pdfs/d9c8b061b39f-2026-10-30-3-calendario-preescolar-noviembre-2026-2027.pdf"
     }
   ]
 }
