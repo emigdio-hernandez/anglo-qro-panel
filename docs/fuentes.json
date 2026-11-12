@@ -252,6 +252,15 @@
       "media_type": "application/pdf",
       "path": "pdfs/13ee86c429ab-2026-11-10-circular-thanksgiving-primaria-2026.pdf",
       "url": "https://emigdio-hernandez.github.io/anglo-qro-panel/pdfs/13ee86c429ab-2026-11-10-circular-thanksgiving-primaria-2026.pdf"
+    },
+    {
+      "sha256": "c5ca41360a84f6554262dccbdea80f234cba36559cce18e0030f8cc54bab5299",
+      "title": "2026-11-10_junta-informativa-k3.pdf",
+      "pages": 1,
+      "source_type": "pdf",
+      "media_type": "application/pdf",
+      "path": "pdfs/c5ca41360a84-2026-11-10-junta-informativa-k3.pdf",
+      "url": "https://emigdio-hernandez.github.io/anglo-qro-panel/pdfs/c5ca41360a84-2026-11-10-junta-informativa-k3.pdf"
     }
   ],
   "documents": [
@@ -506,6 +515,15 @@
       "media_type": "application/pdf",
       "path": "pdfs/13ee86c429ab-2026-11-10-circular-thanksgiving-primaria-2026.pdf",
       "url": "https://emigdio-hernandez.github.io/anglo-qro-panel/pdfs/13ee86c429ab-2026-11-10-circular-thanksgiving-primaria-2026.pdf"
+    },
+    {
+      "sha256": "c5ca41360a84f6554262dccbdea80f234cba36559cce18e0030f8cc54bab5299",
+      "title": "2026-11-10_junta-informativa-k3.pdf",
+      "pages": 1,
+      "source_type": "pdf",
+      "media_type": "application/pdf",
+      "path": "pdfs/c5ca41360a84-2026-11-10-junta-informativa-k3.pdf",
+      "url": "https://emigdio-hernandez.github.io/anglo-qro-panel/pdfs/c5ca41360a84-2026-11-10-junta-informativa-k3.pdf"
     }
   ]
 }
